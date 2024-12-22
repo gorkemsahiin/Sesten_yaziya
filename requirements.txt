@@ -1,1 +1,11 @@
-whisper
+# Ses işleme
+PyAudio
+numpy
+
+# Ses tanıma
+openai-whisper
+torch
+
+# GUI ve Dosya işlemleri
+Pillow
+python-docx

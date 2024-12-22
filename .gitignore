@@ -1,1 +1,8 @@
-venv
+venv/
+__pycache__/
+*.pyc
+models/
+audio_files/recordings/*
+converted_text/*
+!audio_files/recordings/.gitkeep
+!converted_text/.gitkeep
